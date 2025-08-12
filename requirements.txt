@@ -1,5 +1,8 @@
-
 streamlit
-pandas
 pytesseract
 Pillow
+pandas
+pdf2image
+opencv-python-headless
+requests
+xlsxwriter
